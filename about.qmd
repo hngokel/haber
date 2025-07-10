@@ -1,0 +1,60 @@
+---
+title: "Hakkımda"
+---
+
+::: {.about-hero}
+![](images/hakkinda.jpg){.hakkinda-image}
+
+# Hatice Nüveyba Gökel
+
+**Yeni Medya ve İletişim Öğrencisi**  
+*Üsküdar Üniversitesi*
+:::
+
+## Hakkımda
+
+Merhaba, Ben Hatice Nüveyba Gökel, Üsküdar Üniversitesi Yeni Medya ve İletişim Bölümü öğrencisiyim ve elbette her şey gibi burada da en baştan başlıyor: "21 yaşındayım, sosyal medyada içerik üretiyorum." Evet, klişe ama bazen hayatın kendisi de klişe olmuyor mu?
+
+Ama gelin de bu klişeyi sizin için biraz karıştırayım. Kafamda her zaman bir karmaşa var: İşlerimi sürekli son dakikaya bırakırım, tam zamanında yetiştirdiğimde ise sanki bir mucize yaratmışım gibi hissederim. Kahvemi soğutmadan içmeye bayılırım… içmeden yapamam, hatta kahve ve ben, birbirimizin hayatta kalma sebebiyiz diyebilirim.
+
+Her sabah kendime 5 dakika erken uyanma sözü verirken, bir bakarım ki kahvem soğumuş ve işler hala dağınık. Sosyal medyada eğlenirken bir yandan da düşündürmeyi seviyorum. Hani o ani parlayan fikirler var ya, o "Aha!" anlarını yakalamak için sabırsızlanırım.
+
+**Kısacası:** Hayatım biraz "plansız ama eğlenceli". Eğer bir gün karakter seçmem gerekse, kesinlikle Jett olurum: hızlı, cesur ama çoğu zaman yanlış yönlere giden bir kafayla! 🎮
+
+## Bu Blog Neden Var?
+
+Bu blog, ilginç, mizahi ve bir o kadar kafa karıştırıcı haberlerle dolu bir yer. Herkesin bildiği ama kimsenin konuşmadığı, "gerçek" olamayacak kadar absürd olaylar arasında kaybolmak isteyenler için!
+
+**Burada neler bulacaksınız:**
+- Gerçek gibi görünen ama imkansız olan haberler
+- Gündelik hayatın absürt yanları
+- Mizahi yaklaşımla sunulan "alternatif gerçekler"
+- Dijital medya dünyasından analizler
+
+### Projelerim
+
+Bu blog sadece eğlence değil, aynı zamanda dijital medya alanındaki çalışmalarımın bir parçası. Burası hem yaratıcılığımı hem de iletişim becerilerimi geliştirdiğim bir laboratuvar.
+
+---
+
+## İletişim
+
+Benimle aşağıdaki platformlardan iletişime geçebilirsiniz:
+
+::: {.contact-links}
+📧 [haticenuveyba.gokel@st.uskudar.edu.tr](mailto:haticenuveyba.gokel@st.uskudar.edu.tr)
+
+💼 [LinkedIn](https://www.linkedin.com/in/haticenuveybagokel/)
+
+📷 [Instagram](https://www.instagram.com/hatice_nuveyba)
+
+🐙 [GitHub](https://github.com/hngokel)
+
+🎥 [YouTube](https://www.youtube.com/@miusalol?app=desktop)
+
+📝 [Blog Yazılarım](https://www.halklailiskilerdergisi.com.tr/insanlarin-ozgurlukleri-zihnindedir/)
+:::
+
+---
+
+*Hayat bir komedi filmi mi? Bu sorunun cevabını birlikte bulalım! (✿◠‿◠)*

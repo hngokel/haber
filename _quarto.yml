@@ -1,0 +1,105 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gizemli Haberler"
+  site-url: https://hngokel.github.io/
+  description: "İlginç, eğlenceli ve düşündürücü haberler blogu"
+  favicon: images/logo.png
+  
+  navbar:
+    logo: images/logo.png
+    logo-alt: "Gizemli Haberler"
+    title: false
+    background: primary
+    search: true
+    left:
+      - text: "Ana Sayfa"
+        href: index.qmd
+      - text: "Yazılar"
+        menu:
+          - text: "🏫 Sınavları Geçemeyince Babası Okulu Satın Aldı"
+            href: posts/okul-haberi.qmd
+          - text: "🍰 Tatlı Yapmıştı, Komşusu Zehirlendi"
+            href: posts/komsu-tatlisi.qmd
+          - text: "🐱 Kedinin Biri İnsana Laf Attı"
+            href: posts/kedi-laf.qmd
+          - text: "🐶 Ağlayan Köpek Sürekli Aynı Yerde Uluyor"
+            href: posts/aglayan-kopek.qmd
+          - text: "🧬 Kan Verdi, İkizini Buldu"
+            href: posts/ikiz-bulma.qmd
+          - text: "🤖 Dünyada Yapay Zeka Araştırmaları"
+            href: posts/yapay-zeka.qmd
+          - text: "📊 Kıtalara Göre Yayın Sayıları"
+            href: posts/veri-analizi.qmd
+      - text: Hakkımda
+        href: posts/hakkimda/hakkimda.qmd
+      - text: "Kaynaklar"
+        href: kaynaklar.qmd
+    right:
+      - icon: github
+        href: https://github.com/hngokel
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/haticenuveybagokel/
+        aria-label: LinkedIn
+      - icon: instagram
+        href: https://www.instagram.com/hatice_nuveyba/
+        aria-label: Instagram
+      - icon: youtube
+        href: https://www.youtube.com/@miusalol?app=desktop
+        aria-label: YouTube
+      - icon: envelope
+        href: mailto:haticenuveyba.gokel@st.uskudar.edu.tr
+        aria-label: E-posta
+
+  page-footer:
+    left: "&copy; 2025 Hatice Nüveyba Gökel"
+    right:
+      - icon: envelope
+        href: mailto:haticenuveyba.gokel@st.uskudar.edu.tr
+      - icon: linkedin
+        href: https://www.linkedin.com/in/haticenuveybagokel/
+      - icon: instagram
+        href: https://www.instagram.com/hatice_nuveyba/
+      - icon: youtube
+        href: https://www.youtube.com/@miusalol?app=desktop
+      - icon: globe
+        href: https://www.halklailiskilerdergisi.com.tr/insanlarin-ozgurlukleri-zihnindedir/
+
+format:
+  html:
+    theme:
+      light: [cosmo, custom.scss]
+      dark: [darkly, custom.scss]
+    css: styles.css
+    toc: true
+    toc-location: right
+    page-layout: article
+    sidebar:
+      title: "Yazılar"
+      style: "floating"
+      contents:
+        - section: "Son Haberler"
+          contents:
+            - text: "🏫 Babası Okulu Satın Aldı"
+              href: posts/okul-haberi.qmd
+            - text: "🍰 Komşu Tatlısı Zehirli Çıktı"
+              href: posts/komsu-tatlisi.qmd
+            - text: "🐱 Kedi İnsana Laf Attı"
+              href: posts/kedi-laf.qmd
+            - text: "🐶 Ağlayan Köpek"
+              href: posts/aglayan-kopek.qmd
+            - text: "🧬 Kan Bağışında İkiz Buldu"
+              href: posts/ikiz-bulma.qmd
+            - text: "🤖 Yapay Zeka Araştırmaları"
+              href: posts/yapay-zeka.qmd
+            - text: "📊 Veri Analizi"
+              href: posts/veri-analizi.qmd
+        - section: "Sayfalar"
+          contents:
+            - text: "📝 Hakkımda"
+              href: hakkimda.qmd
+            - text: "📚 Kaynaklar"
+              href: kaynaklar.qmd

@@ -1,0 +1,94 @@
+---
+title: ""
+page-layout: article
+title-block-banner: false
+---
+
+:::
+# Gizemli Haberler'e Hoş Geldiniz!
+Sıradışı, eğlenceli ve bazen inanılmaz haberlerle dolu bu köşede her gün yeni bir şaşkınlık yaşayacaksınız. Hayatın tuhaf anlarını, beklenmedik olayları ve gülümsetici hikayeleri sizlerle paylaşıyoruz.
+*30 Mart 2025 • Hatice Nüveyba Gökel*
+:::
+
+::: {.posts-container}
+::: {.post-grid}
+
+:::
+[![](images/okul-haberi.png)](okul/okul.qmd)
+::: {.post-card-content}
+### 🏫 Sınavları Geçemeyince Babası Okulu Satın Aldı
+Zengin bir iş adamının oğlu derslerde başarısız olunca baba radikal bir karar aldı. Peki sonuç değişti mi?
+
+*30 Mart 2025 • Hatice Nüveyba Gökel*
+
+[Devamını oku...](posts/okul/okul.qmd)
+:::
+:::
+
+:::
+[![](images/komsu-tatlisi.png)](komsu/komsu.qmd)
+::: {.post-card-content}
+### 🍰 Tatlı Yapmıştı, Komşusu Zehirlendi
+Ev yapımı tatlı komşudan geldi, tüm mahalle hastaneye koştu. Acaba kasıt mı, yoksa kaza mı?
+
+*29 Mart 2025 • Hatice Nüveyba Gökel*
+
+[Devamını oku...](posts/komsu/komsu.qmd)
+:::
+:::
+
+:::
+[![](images/kedi-laf.png)](kedi/kedi.qmd)
+::: {.post-card-content}
+### 🐱 Kedinin Biri İnsana Laf Attı
+Gece yarısı sokakta garip bir karşılaşma yaşandı. Bir adam kediyle tartıştığını iddia ediyor!
+
+*28 Mart 2025 • Hatice Nüveyba Gökel*
+
+[Devamını oku...](posts/kedi/kedi.qmd)
+:::
+:::
+
+:::
+[![](images/kopek.jpg)](kopek/kopek.qmd)
+::: {.post-card-content}
+### 🐶 Ağlayan Köpek Sürekli Aynı Yerde Uluyor
+Park bekçisi her gece aynı saatte uluyan köpeği fark etti. Sebebi herkesi duygulandırdı.
+
+*27 Mart 2025 • Hatice Nüveyba Gökel*
+
+[Devamını oku...](posts/kopek/kopek.qmd)
+:::
+:::
+
+:::
+[![](images/ikiz.jpg)](ikiz/ikiz.qmd)
+::: {.post-card-content}
+### 🧬 Kan Verdi, İkizini Buldu
+Rutin kan bağışı sırasında laboratuvarda çıkan sonuç hayatını değiştirdi. 30 yıl sonra mucizevi buluşma!
+
+*26 Mart 2025 • Hatice Nüveyba Gökel*
+
+[Devamını oku...](posts/ikiz/ikiz.qmd)
+:::
+:::
+
+:::
+[![](images/yapay-zeka.png)](yapay/yapayzeka.qmd)
+::: {.post-card-content}
+### 🤖 Dünyada Yapay Zeka Araştırmaları
+Türkiye'nin yapay zeka alanındaki konumu ve gelecekteki planları hakkında detaylı bir bakış.
+
+*25 Mart 2025 • Hatice Nüveyba Gökel*
+
+[Devamını oku...](posts/yapay/yapayzeka.qmd)
+:::
+:::
+
+:::
+
+:::
+**Editör Notu:** Bu blog eğlence amaçlı hazırlanmıştır. Haberlerin bir kısmı mizahi kurguya dayanır, gerçek olaylardan esinlenmiş olabilir.
+:::
+
+📬 Sosyal medyada bizi takip etmeyi unutmayın!
